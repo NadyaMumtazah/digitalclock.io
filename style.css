@@ -5,7 +5,7 @@
 }
 .main {
     background-color: cadetblue;
-    width: 50%;
+    width: 30%;
     height: 150px;
     margin: 100px auto;
     padding: 30px;
@@ -18,7 +18,7 @@ h1 {
     background-color: cornsilk;
     width: 150px;
     position: absolute;
-    left: 90px;
+    left: 130px;
     top: -15px;
 }
 .clock {
