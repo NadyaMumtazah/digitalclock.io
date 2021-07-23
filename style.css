@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main {
+    background-color: cadetblue;
+    width: 50%;
+    height: 150px;
+    margin: 100px auto;
+    padding: 30px;
+    position: relative;
+}
+h1 {
+    text-align: center;
+}
+.badge {
+    background-color: cornsilk;
+    width: 150px;
+    position: absolute;
+    left: 90px;
+    top: -15px;
+}
+.clock {
+    font-size: 50px;
+    padding-top: 10px;
+    text-align: center;
+    height: 100%;
+    background-color: rgb(233, 213, 213);
+}
